@@ -1,0 +1,19 @@
+{
+  "name": "Certificado João Pedro",
+  "description": "Certificado emitido pela Universidade para o curso de Blockchain e Criptomoedas.",
+  "image": "https://raw.githubusercontent.com/joao-mm/Certificado-NFT/main/certificado-joao.png",
+  "attributes": [
+    {
+      "trait_type": "Curso",
+      "value": "Blockchain e Criptomoedas"
+    },
+    {
+      "trait_type": "Ano",
+      "value": "2025"
+    },
+    {
+      "trait_type": "Emissor",
+      "value": "Universidade de São Paulo - ICMC"
+    }
+  ]
+}
